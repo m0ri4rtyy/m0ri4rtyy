@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m0ri4rtyy
-- 👀 I’m interested in programmin languages
+- 👀 I’m interested in programming languages
 - 🌱 I’m currently learning laravel & vue
 - 📫 How to reach me? You already have...
 
